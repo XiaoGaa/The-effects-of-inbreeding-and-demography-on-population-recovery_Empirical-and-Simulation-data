@@ -22,7 +22,7 @@ In this dataset, you can find:
 
 (2) COMADRE_data.zip contains the demographic data from the 41 bird species we used to map on Figure 5 in the main text.
 
-(3) Simulation results.zip includes all the simulation results we got from running all the C++ scripts. They are also the outcomes we used in analyses to plot figures and draw conclusions.
+(3) Simulation results.zips include all the simulation results we got from running all the C++ scripts. They are also the outcomes we used in analyses to plot figures and draw conclusions. (If you want to run the R script, you have to download and decompress the series of the "Simulation results" zips. We could not manage to upload all the simulation results in one zip file due to the file size limit on GitHub. Sorry for the inconvenience!)
 
  
 
