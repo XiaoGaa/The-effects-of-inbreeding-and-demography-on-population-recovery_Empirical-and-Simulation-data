@@ -70,6 +70,8 @@ In this dataset, you can find:
 
 *pedigree data analysis.csv, ibis_ped.csv, ibis_ped_summary.csv:* empirical data for creating the pedigree of crested ibises
 
+*ibis_wild_2021-2023.xlsx:* empirical data from the wild ibis population
+
 
 
 (4)New addition on 03-09 during revision
